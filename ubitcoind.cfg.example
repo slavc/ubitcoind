@@ -1,0 +1,3 @@
+ubitcoind.verbose = 0
+peers.target = 100
+ipv6.disable = 0
